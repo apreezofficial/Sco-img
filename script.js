@@ -1,3 +1,6 @@
+
+import API_KEY from "config.js";
+console.log(API_KEY);
 const promptForm = document.querySelector(".prompt-form");
 const themeToggle = document.querySelector(".theme-toggle");
 const promptBtn = document.querySelector(".prompt-btn");
