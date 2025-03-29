@@ -42,6 +42,9 @@ body {
   color: var(--color-text);
   background-image: linear-gradient(#E9E9FF, #C8C7FF);
 }
+a{
+  color: var(--color-text);
+}
 
 .container {
   width: 900px;
