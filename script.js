@@ -8,7 +8,7 @@ const modelSelect = document.getElementById("model-select");
 const countSelect = document.getElementById("count-select");
 const ratioSelect = document.getElementById("ratio-select");
 
-import API_KEY from "./config.js";
+import API_KEY from "config.js";
 console.log(API_KEY);
 // Example prompts
 const examplePrompts = [
