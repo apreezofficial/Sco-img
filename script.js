@@ -7,9 +7,6 @@ const galleryGrid = document.querySelector(".gallery-grid");
 const modelSelect = document.getElementById("model-select");
 const countSelect = document.getElementById("count-select");
 const ratioSelect = document.getElementById("ratio-select");
-
-import API_KEY from "config.js";
-console.log(API_KEY);
 // Example prompts
 const examplePrompts = [
   "A magic forest with glowing plants and fairy homes among giant mushrooms",
